@@ -1,2 +1,0 @@
-# Weenix
-Unix-like OS
